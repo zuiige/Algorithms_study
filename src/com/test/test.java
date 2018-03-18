@@ -1,4 +1,4 @@
-package com.shengong.test;
+package com.test;
 
 public class test {
 
